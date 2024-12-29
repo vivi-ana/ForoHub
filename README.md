@@ -65,3 +65,15 @@ SECRET_KEY=
 - **PUT /topics/{id}**: Update a topic
 
 - **DELETE /topics/{id}**: Delete a topic
+
+## Documentation
+
+The project is documented using Javadoc. You can access to two versions:
+
+1. **Javadoc with UI**: Accessible via a web browser for a more user-friendly experience. Navigate to:
+   [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+
+2. **JSON Format**: This version provides documentation in JSON format. You can access it here:
+   [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
+
+**Note:** The `localhost:8080` address is used for local development and may vary depending on your environment and may vary depending on your environment and server configuration.
